@@ -53,10 +53,6 @@ public class Parker_7_GuessingGame {
         if(magicnumber == yourguess){
             System.out.println("Victory! "+alias+" will go down in history!");
             playagain = false;
-        }else if (69 == yourguess){
-            System.out.println("hehehe...");
-        }else if (420 == yourguess){
-            System.out.println("BLAZE IT");
         }else if (21 == yourguess){
             System.out.println("Whats nine plus ten?");
         }else if (magicnumber<yourguess){
